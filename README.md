@@ -8,7 +8,6 @@ The system extracts resume content, evaluates skills, detects missing keywords, 
 
 ## 🌐 Live Demo
 
-👉 https://smart-resume-ai-1-vr5g.onrender.com/
 
 ---
 
