@@ -7,7 +7,7 @@ The system extracts resume content, evaluates skills, detects missing keywords, 
 ---
 
 ## 🌐 Live Demo
-
+https://smart-ai-analyzer.onrender.com/
 
 ---
 
